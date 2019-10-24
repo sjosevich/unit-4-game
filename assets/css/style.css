@@ -1,0 +1,12 @@
+#cristals {
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.7;
+}
+
+.setup {
+    font-size: 40px;
+    margin-top: 40px;
+    margin-left:100px;
+}
+
+.image:hover {cursor: pointer; text-decoration:underline;}
