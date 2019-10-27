@@ -80,9 +80,9 @@ $(document).ready(function(){
  }   
     
  
-//This function is to where a define my object    
+//This function is to where a define my object   
 function imageRandomValue(randomValue) {
-
+  
   this.randomValue = randomValue;
   
 }  
@@ -96,7 +96,7 @@ function createImageObjects()  {
     } 
 }  
 
-     
+   
 /* Main 
 ===========================================================================*/     
   
